@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, It's Thivagar here 👋
 
-<!--
-**thivagar-manickam/thivagar-manickam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on - Writing blogs, personal finance application
+- 🌱 I’m currently learning - Art of writing blogs, Microsoft Azure 
+- 💬 Ask me about - Angular, javascript, Typescript
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/thivagarm/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+**My github status report**
+![github stats](https://github-readme-stats.vercel.app/api?username=thivagar-manickam)
