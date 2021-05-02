@@ -3,7 +3,7 @@
 ## A Tech Enthusiast with passion for Web Application Development :smile:
 
 - 🔭 I’m currently working on - Writing blogs, personal finance application
-- 🌱 I’m currently learning - Art of writing blogs, Microsoft Azure 
+- 🌱 I’m currently learning - Art of writing blogs, <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft Azure-0089D6?logo=microsoft+azure&logoColor=white&style=flat" />
 - 💬 Ask me about - Angular, javascript, Typescript
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/thivagarm/">
   <img
@@ -23,6 +23,8 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
   <img alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=white&style=flat" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=thivagar-manickam&count_private=true&theme=radical&show_icons=true" />
