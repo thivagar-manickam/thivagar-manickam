@@ -52,3 +52,7 @@
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=thivagar-manickam&layout=compact"
 />
+
+**My Recent Medium Articles**
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thivagarm/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thivagarm/0" alt="Recent Article 1">
