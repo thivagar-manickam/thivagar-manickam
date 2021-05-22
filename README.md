@@ -55,5 +55,7 @@
 
 **My Recent Medium Articles**
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thivagarm/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thivagarm/0" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thivagarm/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thivagarm/1" alt="Recent Article 0">
+<table><tr><td valign="top" width="50%">
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+  </td>
