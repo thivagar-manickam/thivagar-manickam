@@ -57,5 +57,7 @@
 
 <table><tr><td valign="top" width="50%">
   <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+- [Install Tailwind CSS in an Angular project](https://javascript.plainenglish.io/install-tailwind-css-in-an-angular-project-54a189b53db2?source=rss-185d0c8489fa------2)
+- [How to create an awesome GitHub Profile page?](https://thivagarm.medium.com/how-to-create-a-awesome-github-profile-page-ca40d38dc3a8?source=rss-185d0c8489fa------2)
+<!-- BLOG-POST-LIST:END -->
   </td>
