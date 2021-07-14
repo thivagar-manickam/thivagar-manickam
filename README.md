@@ -57,5 +57,5 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Install Tailwind CSS in an Angular project](https://javascript.plainenglish.io/install-tailwind-css-in-an-angular-project-54a189b53db2?source=rss-185d0c8489fa------2)
-- [How to create an awesome GitHub Profile page?](https://thivagarm.medium.com/how-to-create-a-awesome-github-profile-page-ca40d38dc3a8?source=rss-185d0c8489fa------2)
+- [How to Create an Awesome GitHub Profile Page?](https://javascript.plainenglish.io/how-to-create-a-awesome-github-profile-page-ca40d38dc3a8?source=rss-185d0c8489fa------2)
 <!-- BLOG-POST-LIST:END -->
