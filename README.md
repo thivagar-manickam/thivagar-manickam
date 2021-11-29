@@ -1,10 +1,12 @@
 ### Hi, It's Thivagar here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 #### A passionate Web Application Developer with a desire to explore more about software development :smile:
+#### Currently digging into Data Analytics and Machine Learning domain :wink:
 
 - 🔭 I’m currently working on - Writing blogs, personal finance application
-- 🌱 I’m currently learning - Art of writing blogs, <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft Azure-0089D6?logo=microsoft+azure&logoColor=white&style=flat" />
+- 🌱 I’m currently learning - Art of writing blogs, <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft Azure-0089D6?logo=microsoft+azure&logoColor=white&style=flat" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat">
 - 💬 Ask me about - Angular, javascript, Typescript
+- :computer: Current Interest - Python, Data Analytics, Machine learning
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/thivagarm/">
   <img
     alt="Linkedin"
@@ -14,6 +16,7 @@
 
 **Have worked in:**
 <p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
@@ -36,6 +39,7 @@
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&style=flat" />
   <img alt="Azure Devops" src="https://img.shields.io/badge/Azure DevOps-0078D7?logo=azure+devops&logoColor=white&style=flat" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=flat" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
