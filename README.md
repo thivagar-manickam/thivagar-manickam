@@ -1,13 +1,20 @@
-### Hi, It's Thivagar here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">
+  Hi, It's Thivagar here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h1>
+<h3 align="center">
+  A passionate Web Application Developer with a desire to explore more about software development :smile:
+</h3>
+<h3>Currently digging into Data Analytics and Machine Learning domain :wink:</h3>
 
-#### A passionate Web Application Developer with a desire to explore more about software development :smile:
-#### Currently digging into Data Analytics and Machine Learning domain :wink:
+🔭 I’m currently working on - Writing blogs, personal finance application
 
-- 🔭 I’m currently working on - Writing blogs, personal finance application
-- 🌱 I’m currently learning - Art of writing blogs, <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft Azure-0089D6?logo=microsoft+azure&logoColor=white&style=flat" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat">
-- 💬 Ask me about - Angular, javascript, Typescript
-- :computer: Current Interest - Python, Data Analytics, Machine learning
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/thivagarm/">
+🌱 I’m currently learning - Art of writing blogs, <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft Azure-0089D6?logo=microsoft+azure&logoColor=white&style=flat" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat">
+
+💬 Ask me about - Angular, javascript, Typescript
+
+:computer: Current Interest - Python, Data Analytics, Machine learning
+
+📫 How to reach me: <a href="https://www.linkedin.com/in/thivagarm/">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
@@ -50,6 +57,16 @@
   <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=white&style=flat" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 </p>
+
+<br><br>
+<div align="center">
+ <div>
+   <p>&nbsp;
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=thivagar-manickam&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="thivagar-manickam" />
+   </p>
+  </div>
+ </div>
+<br><h2></h2><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=thivagar-manickam&count_private=true&theme=radical&show_icons=true" />
 
