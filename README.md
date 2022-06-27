@@ -77,6 +77,7 @@
 **My Recent Articles/Blog post 📘**
 
 <!-- BLOG-POST-LIST:START -->
+- [Flask Web App Deployment to Azure Cloud](https://python.plainenglish.io/flask-web-app-deployment-to-azure-cloud-7ea85234cdc4?source=rss-185d0c8489fa------2)
 - [Install Tailwind CSS in an Angular project](https://javascript.plainenglish.io/install-tailwind-css-in-an-angular-project-54a189b53db2?source=rss-185d0c8489fa------2)
 - [How to Create an Awesome GitHub Profile Page?](https://javascript.plainenglish.io/how-to-create-a-awesome-github-profile-page-ca40d38dc3a8?source=rss-185d0c8489fa------2)
 <!-- BLOG-POST-LIST:END -->
