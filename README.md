@@ -71,7 +71,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=thivagar-manickam&count_private=true&theme=radical&show_icons=true" />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thivagar-manickam&layout=compact"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thivagar-manickam&layout=compact&theme=radical"
 />
 
 **My Recent Articles/Blog post 📘**
