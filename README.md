@@ -2,9 +2,9 @@
   Hi, It's Thivagar here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 </h1>
 <h3 align="center">
-  A passionate Web Application Developer with a desire to explore more about software development :smile:
+  A passionate Full Stack Developer with a desire to explore more about software development :smile:
 </h3>
-<h3>Currently digging into Data Analytics and Machine Learning domain :wink:</h3>
+<h3>Currently digging into Data Analytics, Machine Learning and NLP domain :wink:</h3>
 
 🔭 I’m currently working on - Writing blogs, personal finance application
 
